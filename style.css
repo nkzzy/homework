@@ -12,3 +12,18 @@
     width: 500px;
     overflow: hidden;
 }
+#search{
+    padding:20px 20px 20px 120px;
+}
+#dark{
+    background-image:url(img/末影龙.jpg);
+}
+#bottom{
+    padding:0 0;
+}
+#black{
+    background-image:url(img/凋零.jpg);
+}
+#grey{
+    background-image:url(img/远古守卫者.jpg);
+}
